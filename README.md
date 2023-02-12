@@ -1,2 +1,2 @@
 # bibtex-to-obsidian
-This an extension for Obsidian to convert bibitems in a BibTeX file to notes.
+This a Python code for creating and updating notes on Obsidian app from a BibTeX file.
